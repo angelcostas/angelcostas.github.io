@@ -83,6 +83,7 @@ body {
   -webkit-border-radius: 30px;
   border: 5px solid #fff;
   padding: 10px;
+  width: 90%;
   margin: auto;
 }
 h2 {
