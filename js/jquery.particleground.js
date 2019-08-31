@@ -383,10 +383,10 @@
     dotColor: '#666666',
     lineColor: '#666666',
     particleRadius: 7, // Dot size
-    lineWidth: 1,
+    lineWidth: 2,
     curvedLines: false,
     proximity: 100, // How close two dots need to be before they join
-    parallax: true,
+    parallax: false,
     parallaxMultiplier: 5, // The lower the number, the more extreme the parallax effect
     onInit: function() {},
     onDestroy: function() {}
